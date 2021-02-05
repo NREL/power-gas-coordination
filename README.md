@@ -10,7 +10,7 @@ The modules includes the following scripts:
 - run_models.py - runs the models specified in scenarios.py (executed by the user).
 
 Due to the use of proprietary and sensitive data in this analysis we are not able to publish the data accompanying this analysis. Despite this, we have published the codebase here to illustrate our framework. Please see the following publications for additionl details on the analysis:
-- Guerra et al., "Coordinated Operation of Electricity and Natural Gas Systems from Day-ahead to Real-time Markets". Available at tinyurl.com/1t0b2fod. 
+- Guerra et al., "Coordinated Operation of Electricity and Natural Gas Systems from Day-ahead to Real-time Markets". Available at https://www.sciencedirect.com/science/article/pii/S0959652620348034?via%3Dihub. 
 - Guerra et al., "Electric Power Grid and Natural Gas Network Operations and Coordination". NREL Technical report. Available at https://www.nrel.gov/docs/fy20osti/77096.pdf.
 
 NREL is currently developing a suite of tools to enable co-simulation of gas and grid operations based on the HELICS co-simulation platform. Those interested in learning more about NREL's efforts in this space are encouraged to check out the [HELICS documentation](https://docs.helics.org/en/latest/) or [codebase on Github](https://github.com/GMLC-TDC/HELICS), or to contact the HELICS natural gas use case lead Brian Sergi (bsergi@nrel.gov) for more information.  
