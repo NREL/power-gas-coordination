@@ -17,4 +17,4 @@ NREL is currently developing a suite of tools to enable co-simulation of gas and
 
 Conceptual diagram of the PLEXOS-SAInt coordination and data exchange:
 
-[Coordination diagram - Paper figure.pdf](https://github.com/NREL/power-gas-coordination/files/8111995/Coordination.diagram.-.Paper.figure.pdf)
+![Coordination diagram - Paper figure.pdf](https://github.com/NREL/power-gas-coordination/files/8111995/Coordination.diagram.-.Paper.figure.pdf)
