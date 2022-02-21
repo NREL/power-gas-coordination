@@ -16,4 +16,5 @@ Due to the use of proprietary and sensitive data in this analysis we are not abl
 NREL is currently developing a suite of tools to enable co-simulation of gas and grid operations based on the HELICS co-simulation platform. Those interested in learning more about NREL's efforts in this space are encouraged to check out the [HELICS documentation](https://docs.helics.org/en/latest/) or [codebase on Github](https://github.com/GMLC-TDC/HELICS), or to contact the HELICS natural gas use case lead Brian Sergi (bsergi@nrel.gov) for more information.  
 
 Conceptual diagram of the PLEXOS-SAInt coordination and data exchange:
-https://ars.els-cdn.com/content/image/1-s2.0-S0959652620348034-gr1.jpg![image](https://user-images.githubusercontent.com/6035236/155024247-f03d871f-9779-4b32-bf6e-115be2baf112.png)
+
+[Coordination diagram - Paper figure.pdf](https://github.com/NREL/power-gas-coordination/files/8111995/Coordination.diagram.-.Paper.figure.pdf)
